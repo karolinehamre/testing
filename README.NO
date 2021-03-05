@@ -1,2 +1,3 @@
-hallo dette suger
-
+Hello
+Hei
+Hej
